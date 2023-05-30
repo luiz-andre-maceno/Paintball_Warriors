@@ -55,6 +55,6 @@ Para implementar novas funcionalidades ou corrigir possíveis erros, as seguinte
 
 # Equipe de Desenvolvimento |
 Luiz André |
-Ricardo mendes
-natanoel |
+Ricardo Mendonca |
+Natanoel |
 Marcos  |
