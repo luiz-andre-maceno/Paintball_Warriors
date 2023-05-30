@@ -52,3 +52,9 @@ Para implementar novas funcionalidades ou corrigir possíveis erros, as seguinte
 - Utilização de boas práticas de programação, como a criação de testes unitários e integração de código;
 - Padronização do código com a utilização dos guidelines da equipe de desenvolvimento;
 - Utilização de um sistema de controle de versão e criação de branches para cada funcionalidade ou correção.
+
+# Equipe de Desenvolvimento |
+Luiz André |
+Ricardo mendes
+natanoel |
+Marcos  |
