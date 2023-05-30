@@ -1,5 +1,5 @@
 # Paintball_Warriors
-## Projeto de E-commerce de Paintball
+## Projeto de E-commerce de Paintball_Warriors
 ![paiball-e-comercer](https://github.com/Luizandre37/Paintball_Warriors/assets/67300107/e0e12a26-9270-4fb8-ab18-e618ecab7880)
 
 Este projeto é um e-commerce de paintball desenvolvido utilizando as skills Angular versão 16 e Material Designer.
